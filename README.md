@@ -40,5 +40,5 @@ sdd = impRC$sdd  # This is the standard deviation of the output
 imptmp = exp(impdata * sdd + meand)  # Final imputed first column
 ```
 
-For further details, refer to the `Project_func.R` file for additional functions and examples. For the full script, containing benchmark and comparisons, please refer to the 'project.Rmd' file.
+For further details, refer to the `Project_func.R` file for additional functions and examples. For the full script, containing benchmark and comparisons, please refer to the `project.Rmd` file.
 
